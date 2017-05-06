@@ -1,0 +1,22 @@
+html{
+    background-color: goldenrod
+}
+.center{
+    text-align: center;
+}
+#name {text-align: right;
+       color: blue;
+}
+#image {
+    width: 80%;
+    display: block 
+    margin: auto
+}
+.p{ 
+    background-color: white;
+    padding: 20px;
+    border: 5px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
